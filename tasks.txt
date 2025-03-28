@@ -1,0 +1,3 @@
+This file contains sample to-do items.
+Task.1: Complete HackerRank    Due Date: 31-03-2025
+Task.2: Complete SCM project   Due Date: 5-04-20025
