@@ -31,7 +31,7 @@ build/
 3. use git init commad to initialise this local repo and use git remote add origin "link of remote repo" to make this local repo a git repo.<br>
 4. Push this local repo to GitHub using git push command.<br>
 5. If there are changes in a file directly in GitHub, you can pull that changes to local repo using git pull command.<br>
-<h3> Explaination of Task 4:<h3><br>
+<h3> Explaination of Task 4:</h3><br>
 1. create .gitinit file using touch command and open it in a text editor.<br>
 2. add file extensions like *.tmp,*.log in to so that your git add and commit commands can ignore temporary and log files.<br>
 3. Do required changes in README.md and if someone else also done changes in the README.md , resolve conflicts after git merge.(steps are mentioned above).<br>
